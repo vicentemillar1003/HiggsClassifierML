@@ -1,5 +1,9 @@
 # HiggsClassifierML
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![ROOT](https://img.shields.io/badge/CERN-ROOT-0f4c81)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 ### Encontrando al bosón de Higgs entre un mar de fotones, con inteligencia artificial
 
 Un proyecto de principio a fin: **simulo colisiones de protones**, extraigo la información que dejan los detectores y entreno un modelo de *machine learning* que aprende a decidir, evento por evento, si lo que se ve es una **señal del bosón de Higgs** o simplemente **ruido de fondo**.
